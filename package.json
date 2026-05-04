@@ -1,0 +1,6 @@
+{
+  "name": "agent-isek-bot-de-analisis-de-sentimiento-morir4i6",
+  "version": "1.0.0",
+  "description": "Proyecto de Isek [Gen6]: bot de analisis de sentimiento de noticias financieras",
+  "main": "index.js"
+}
